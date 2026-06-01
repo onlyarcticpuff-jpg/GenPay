@@ -11,7 +11,7 @@
   "dependencies": {
     "@genpay/wallet-core": "*",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react-dom": "18.2.0",
     "ethers": "^6.13.0"
   },
   "devDependencies": {
